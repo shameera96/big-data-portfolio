@@ -1,0 +1,9 @@
+{
+	"name": "meera123data",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c23eb03-927f-4787-b630-d8704d47422b",
+		"tenantId": "f34ef12a-ab3e-469d-8516-1dbed15ade6e"
+	}
+}
